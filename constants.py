@@ -1,0 +1,1 @@
+PINECONE_INDEX = 'ticket-tool'
